@@ -1,0 +1,11 @@
+C:\Users\ucenik\source\repos\AutomobiliV\bin\Debug\AutomobiliV.exe.config
+C:\Users\ucenik\source\repos\AutomobiliV\bin\Debug\AutomobiliV.exe
+C:\Users\ucenik\source\repos\AutomobiliV\bin\Debug\AutomobiliV.pdb
+C:\Users\ucenik\source\repos\AutomobiliV\obj\Debug\AutomobiliV.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\AutomobiliV\obj\Debug\AutomobiliV.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\AutomobiliV\obj\Debug\AutomobiliV.Form1.resources
+C:\Users\ucenik\source\repos\AutomobiliV\obj\Debug\AutomobiliV.Properties.Resources.resources
+C:\Users\ucenik\source\repos\AutomobiliV\obj\Debug\AutomobiliV.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\AutomobiliV\obj\Debug\AutomobiliV.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\AutomobiliV\obj\Debug\AutomobiliV.exe
+C:\Users\ucenik\source\repos\AutomobiliV\obj\Debug\AutomobiliV.pdb
